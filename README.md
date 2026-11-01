@@ -25,7 +25,6 @@ sql-aggregation-basics/
 ├── README.md              # approach and outcome (this file)
 ├── queries.sql            # 10 aggregation queries
 ├── results.md             # output of each query
-└── interview_answers.md   # answers to the interview questions
 ```
 
 ## Approach
@@ -70,4 +69,4 @@ Note: Chinook table names are lowercase in the PostgreSQL version. In some MySQL
 
 ## Outcome
 
-All 10 queries run successfully on Chinook. See [results.md](results.md) for the output and [interview_answers.md](interview_answers.md) for interview preparation.
+All 10 queries run successfully on Chinook. See [results.md](results.md) for the output.
